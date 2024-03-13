@@ -1,0 +1,7 @@
+Entender onde fica o IdBateladaDes de sulfonação
+Terminar o Sulfonações
+
+Fazer o Clarificação
+
+Conferir antes de enviar a permissão do *ngIf que tem em desidratações e não usei nas outras páginas.
+Conferir se iClarificacao e iSulfonacao está certo

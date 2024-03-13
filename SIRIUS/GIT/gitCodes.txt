@@ -1,0 +1,6 @@
+git merge 
+git checkout nome_da_branch // (Para mudar de branch)
+git pull ou git pull origin nome_branch // (Sincroniza os dados)
+git push // (Envia seus dados para a branch)
+git log e git status // (mostra as alterações feitas)
+git branch -m old_name new_name

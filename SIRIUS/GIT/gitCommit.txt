@@ -1,0 +1,18 @@
+git add .
+yarn commit
+
+feat é novo
+fix é concerto de bug
+
+tile
+desc inicial
+Desc completa
+
+no
+no
+
+git pull origin Development
+git pull
+git push
+
+No site em Pull Request 

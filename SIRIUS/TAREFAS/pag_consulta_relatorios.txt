@@ -1,0 +1,42 @@
+VIC - Backend config config.json = config_prefisan_teste.json
+carlos.astitec
+Vic@2020
+
+Aba de Configurações:
+	menu.component.ts
+	obs.: app.routing para achar as páginas
+New Page:
+	ConsultaRelatoriosComponent
+
+Criar um CRUD de BRelatorios
+
+Visualização em tabela ok
+
+CAMPOS: Descrição/Sistema/BaseRM/SQL
+
+Edição e exclusão
+
+{
+	Criar page usando o que já existe ok
+	Buscar dados do banco ok
+	Preencher tabela com eles ok
+	Criar novos dados
+	Editar
+	Excluir
+}
+
+Migrashion
+Melhorar layout do form ok
+Diminuir font do SQL ok
+True e False (SIM ou NÃO) ok
+Sigla correta no HTML Permission do component
+Ver se o nome do sistema será parâmetros ou Relatórios msm
+
+
+Mexer no BSistemas
+
+Obs.: Fernando falou sobre BSistemas e a visualização dos usuários de cada página.
+Fazer a relação dessa nova página no BSistemas, para editar quem poderá visualizar.
+
+DICA: Aprender a usar a aptable (mais personalizavel) / REGEX (interessante)
+OLHAR sobre: POWERBY (powerbiai) 

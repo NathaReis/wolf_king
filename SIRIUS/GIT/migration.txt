@@ -1,0 +1,4 @@
+Backend
+
+npm sequelize-cli migration:generate --name nome_da_migration
+npm sequelize-cli db:migrate
