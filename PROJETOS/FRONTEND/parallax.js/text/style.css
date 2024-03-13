@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1
+{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 14em;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 250px;
+    background: url('./img.jpg');
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    /*Background dentro da letra*/
+    -webkit-background-clip: text;
+    /*Letra transparent para a img aparecer*/
+    -webkit-text-fill-color: transparent;
+    /*Contorno no texto*/
+    -webkit-text-stroke-width: 1px;
+}

@@ -1,0 +1,40 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body 
+{
+    background-color: #c2c2c2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p 
+{
+    padding: 20px 200px 20px 200px;
+    box-shadow: 2px 3px 4px 5px #000;
+    min-height: 50vh;
+}
+
+.a
+{
+    background: url('./1.jpg');
+}
+.b
+{
+    background: url('./2.jpg');
+}
+.c
+{
+    background: url('./3.jpg');
+}
+
+.parallax
+{
+    width: 100vw;
+    height: 60vh;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
