@@ -1,0 +1,7 @@
+Pessoal, boa tarde. Vamos precisar alterar o endereço do DevOps. O novo endereço será:
+https://devops.siriusgroup.com.br:8090/
+Vocês podem alterar o repositório modificando o endereço no arquivo config dentro de ./git na raiz do projeto
+git remote set-url origin https://devops.siriusgroup.com.br:8090/FCLEAL/ASTI/_git/ASTIPessoal, boa tarde. Vamos precisar alterar o endereço do DevOps. O novo endereço será:
+https://devops.siriusgroup.com.br:8090/
+Vocês podem alterar o repositório modificando o endereço no arquivo config dentro de ./git na raiz do projeto
+git remote set-url origin https://devops.siriusgroup.com.br:8090/FCLEAL/ASTI/_git/ASTI
