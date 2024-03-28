@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(212, 212, 212);
+    color: #fff;
+    text-shadow: 1px 1px 3px #0000005e;
+    font-family: arial;
+}
+
+.card {
+    width: 500px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    gap: 10px;
+    box-shadow: 
+        0 0 0 1px #fffc6380,
+        0 0 20px rgb(255, 234, 139),
+        0 0 70px rgb(255, 234, 139);
+    border-radius: 20px;
+    background: #ffffff00;
+    backdrop-filter: invert(10%);
+
+    h1 {
+        text-align: center;
+        font-size: 2.5rem;
+    }
+
+    li {
+        margin: 15px;
+        font-size: 1.2rem;
+    }
+}
