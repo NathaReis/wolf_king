@@ -1,0 +1,13 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    width: 10vh;
+    height: 10vh;
+    background: #ff0000;
+}
