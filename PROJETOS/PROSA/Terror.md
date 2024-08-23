@@ -11,7 +11,7 @@ Ilusão sempre real
 
 Cada dia como o vento
 
-Semore sopra vendaval
+Sempre sopra vendaval
 
 Cada suspiro uma lua
 
@@ -31,8 +31,8 @@ Cada ilusão sonho imortal
 
 Sou a lua em suas fases
 
-Quiça nem fim tivesse o som
+Quiçá nem fim tivesse o som
 
-Mas ouço gritos de vários oássaros
+Mas ouço gritos de vários pássaros
 
 E em passos largos terror total.
