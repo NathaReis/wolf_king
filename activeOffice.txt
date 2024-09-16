@@ -1,8 +1,10 @@
-execute o powershell como adm
-digite irm https://massgrave.dev/get | iex
-a primeira opção é para o win.
-a segunda para o office
-0 fecha a janela
+# Ativando o Windows
+- Execute o powershell como admin
+- Digite irm https://massgrave.dev/get | iex
+***
+- primeira opção é para o win.
+- segunda para o office
+- 0 fecha a janela
 
 
-o código fonte está no github
+`o código fonte está no github`
