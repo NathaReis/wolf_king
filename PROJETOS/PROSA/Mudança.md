@@ -20,8 +20,8 @@ E eu vivo a minha errante
 
 Pois é diferente dos montes
 
-Vivo a minha histório de diferença
+Vivo a minha diferença
  
-Mudo a minha vida por ser um sensato
+Minha vida de sensato oculto
 
-A mudança é meu bem pensar
+A mudança é meu bem pensar ao mundo
