@@ -1,4 +1,4 @@
-execute o powershell colo adm
+execute o powershell como adm
 digite irm https://massgrave.dev/get | iex
 a primeira opção é para o win.
 a segunda para o office
