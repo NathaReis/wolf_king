@@ -1,4 +1,4 @@
-# Ativando o Windows
+ # Ativando o Windows
 - Execute o powershell como admin
 - Digite irm https://massgrave.dev/get | iex
 ***
