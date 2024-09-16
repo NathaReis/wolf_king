@@ -1,3 +1,5 @@
+# Mudança 
+
 Sou nérsio de toda loucura
 
 Pois caço na vida que soluça
@@ -12,15 +14,15 @@ E aos doidos sou o todo eleito
 
 Pois vivo vida diferente
 
-Errante aos acertos extintos  
+Errante aos acertos existentes 
 
 Se todos vivem sua história 
 
-E eu vivo a minha errante
+E eu vivo a minha na minha
 
 Pois é diferente dos montes
 
-Vivo a minha diferença
+Vivo a indiferença dos poucos
  
 Minha vida de sensato oculto
 
